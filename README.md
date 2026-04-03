@@ -1,6 +1,6 @@
 # Hi, I'm Chhayanka 👋
 
-🎓 B.Tech CSE (AI & ML) @ Shri Shankaracharya Technical Campus (2023–27)
+🎓 B.Tech CSE (AI & ML) @ Shri Shankaracharya Technical Campus (2024–28)
 💻 Frontend Developer | UI/UX Enthusiast | Python Learner
 📍 Durg, Chhattisgarh, India
 📫 chhayankadabhadker17@gmail.com
