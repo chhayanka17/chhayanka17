@@ -1,57 +1,43 @@
-## Hi, I’m Chhayanka 👋
+# Hi, I'm Chhayanka 👋
 
-🎓 B.Tech Engineering Student  
-💻 Interested in UI/UX Design, Frontend Development, and Product Thinking  
-🚀 Exploring how technology can solve real-world problems
-
----
-
-### 👩‍💻 About Me
-I am currently pursuing my **B.Tech**, with a strong interest in **UI/UX design, frontend development, and emerging technologies**.  
-I enjoy building **user-centric solutions** that focus on trust, usability, and real-world impact rather than just features.
-
-I actively participate in **hackathons and design competitions**, where I work on problem-solving, collaboration, and rapid prototyping.
+🎓 B.Tech CSE (AI & ML) @ Shri Shankaracharya Technical Campus (2023–27)
+💻 Frontend Developer | UI/UX Enthusiast | Python Learner
+📍 Durg, Chhattisgarh, India
+📫 chhayankadabhadker17@gmail.com
 
 ---
 
-### 🏆 Experience & Participation
-- 🧠 **Smart India Hackathon (SIH)** – Participated in national-level problem solving  
-- 🎨 **UI/UX Design Competitions** – Designed end-to-end user experiences using Figma  
-- 💡 Built concept-driven projects focusing on **trust, transparency, and user safety**
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-### 🔥 Featured Project
-**AR/VR Buyer Verification Tool for E-Commerce**
-- Buyer-oriented verification platform (not a purchasing app)
-- Helps users verify device authenticity before buying
-- Uses AR/VR concepts like 3D exploded views and virtual unboxing
-- Designed in **Figma** with a **frontend prototype**
-- Focused on fraud prevention and buyer confidence
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🌐 [Portfolio Website](https://github.com/chhayanka17) | Responsive personal portfolio with mobile-first design | HTML, CSS, JS |
+| 🌾 [Aadarsh Gram Connect](https://github.com/chhayanka17) | Rural analytics dashboard concept | Python, Data |
+| 🚁 [Drone Monitoring Concept](https://github.com/chhayanka17) | Drone-based surveillance system concept | Research |
 
 ---
 
-### 🛠 Skills & Learning
-- **UI/UX Design:** Figma, user flows, wireframing, prototyping, Canva  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Programming:** Python (currently learning) 
-- **Machine Learning:** Exploring fundamentals and use cases  
-- **Tools:** Git, GitHub, VS Code  
+## 📊 GitHub Stats
+
+![Chhayanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chhayanka17&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chhayanka17&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-### 📚 Currently Learning
-- Python for problem-solving and automation  
-- Basics of Machine Learning  
-- Advanced UI/UX principles  
-- Product thinking and real-world system design  
+## 🔗 Connect With Me
 
----
-
-### 🌐 Connect With Me
-- **LinkedIn:** www.linkedin.com/in/chhayanka-dabhadker-b86ab331a 
-- 
-
----
-
-⭐ *I’m open to learning opportunities, internships, and collaborative projects.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chhayankadabhadker-b86ab331a)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/chhayanka17)
